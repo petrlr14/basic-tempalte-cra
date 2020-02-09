@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-basic-init",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "cra",
+    "basic",
+    "template"
+  ],
+  "description": "Basic template for CRA",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petrlr14/basic-tempalte-cra.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
